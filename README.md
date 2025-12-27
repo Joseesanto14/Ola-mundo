@@ -45,6 +45,30 @@ Lista de tarefas:
 
 ---
 
+## Tabelas
+Num | Nome | Nota
+---| ---| ---|
+1 | Gustavo | 8,5
+2 | José | 10
+3 | Adriano | 5,5
+
+👍
+---
+
+## Comandos e código
+
+```
+public float calcularMedia(float nota1, float nota2){
+  return (nota1 + nota 2) / 2;
+}
+```
+
+## Citação
+> A ação cura o medo, a inação cria o terror.
+>  - Mark Twain
+
+---
+
 [Acesse meu GitHub](https://github.com/Joseesanto14)
 
 
